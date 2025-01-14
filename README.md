@@ -1,8 +1,8 @@
-# KINGBOT SPAM BOT 
+# ShahilBOT SPAM BOT 
 A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/HOSTING THIS U CAN SPAM ON TELEGRAM BY ONE COMMAND TO 10 ACCOUNT AT ONE TIME.
 
 <p align="center">
-  <img src="https://telegra.ph/file/fc22cb568f8e82f574109.jpg" alt="KINGBOT SPAM BOT">
+  <img src="https://telegra.ph/file/fc22cb568f8e82f574109.jpg" alt="Shahil SPAM BOT">
 </p>
 
 
@@ -28,8 +28,7 @@ No required api hash or app/api id
 ### Contact Support
 Any queries or issue contact 
 
-https://t.me/KINGBOTOFFICIAL
-https://t.me/KINGBOTOFFICIALCHAT
+https://t.me/Shahil440
 
 ### YouTube Tutorial
 
